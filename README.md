@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cybersoulja
-- 👀 I’m interested in Discord Web3 Integration
-- 🌱 I’m currently learning Discord Development
-- 💞️ I’m looking to collaborate on a Discord/website login app
-- 📫 How to reach me Kevo@oneseco.com
+- 👀 I’m interested in building a Web3 community
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Web3 learn to earn gamification.
+- 📫 How to reach me Cybersoulja@gmail.com
 
 <!---
 Cybersoulja/Cybersoulja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
