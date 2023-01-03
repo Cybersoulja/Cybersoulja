@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cybersoulja
-- 👀 I’m interested in building a gamified Web3 learning community.
-- 🌱 I’m currently learning Github Basics.
-- 💞️ I’m looking to collaborate on learning quests & rewards.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently relearning Javascript at Alchemy University. .
+- 💞️ I’m looking to collaborate on a micro saas for a specific niche.
 - 📫 You can reach me at Cybersoulja@gmail.com
 
 
