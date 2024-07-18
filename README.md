@@ -4,6 +4,9 @@ Currently involved in the "Beatin’ Da Block" brand revival and nurturing a new
 
 📫 You can reach me at Cybersoulja@gmail.com
 
+Updating for Hashnode Project
+
+
 
 
 
