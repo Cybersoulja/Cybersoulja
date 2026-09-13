@@ -1,29 +1,34 @@
-Hi, I'm Cybersoulja!
+# ⚡ Kelvin | Cybersoulja
 
-I'm a passionate developer with a love for coding, gaming, writing, podcasting, and bot building. Although I'm still learning, I'm eager to collaborate and bring innovative solutions to the table.
+> Automation Architect & Systems Thinker • Founder, Oneseco Media • Houston, TX
 
-Skills:
+Building modular edge pipelines, developer tooling, and autonomous agent workflows.
 
-Python: I'm actively learning Python and have a basic understanding of its syntax and concepts.
-JavaScript: I have some experience with JavaScript, and I'm eager to expand my knowledge in this area.
-Web Development: I'm a beginner in web development, but I'm excited to learn more about HTML, CSS, and frameworks like React.
-Projects:
+---
 
-Beatin' Da Block: I'm involved in the revival of the "Beatin' Da Block" brand, where I contribute to various aspects of development and content creation.
-Oneseco Media: I'm co-founder of Oneseco Media, a new brand focused on creating engaging content and fostering a community of like-minded individuals.
-Let's collaborate!
+### 🛠️ Active Stack & Architecture
 
-I'm always open to learning new things and collaborating on exciting projects. If you're interested in working together, feel free to reach out to me at [email protected]
+* **Core & Languages:** Python, TypeScript, Node.js, Bash
+* **Edge & Cloud Infra:** Cloudflare Workers, Pages, R2 Storage, KV, D1, REST APIs
+* **Agentic Systems & AI:** Model Context Protocol (MCP), Claude Agent SDK, Gemini API, Local MLX
+* **Automation & Client Layer:** Telegram TMA, Apple iOS Shortcuts, Webhooks & Event Queues
 
-Connect with me:
+---
 
-GitHub: Cybersoulja
-Twitter: Cybersoulja
-LinkedIn: Kelvin 
+### 📡 Active Repos & Systems
 
+* **[Agentic-Telegram-TMA](https://github.com/Cybersoulja/Agentic-Telegram-TMA):** Telegram Mini App driving autonomous agents and interactive state machines.
+* **[my-mcp-server](https://github.com/Cybersoulja/my-mcp-server):** Cloudflare Workers ops MCP tools interfacing with edge infrastructure.
+* **[craft-agents-oss-workspace](https://github.com/Cybersoulja/craft-agents-oss-workspace):** Custom agent workspaces, tools, and MCP portal configurations.
+* **[AutomationLab_v4](https://github.com/Oneseco-Media/AutomationLab_v4):** End-to-end multi-platform automation engines.
 
-Let's create something awesome together! 🚀
+---
 
+### 🔗 Network & Channels
+
+[![X / Twitter](https://img.shields.io/badge/X-@cybersoulja-000000?style=flat&logo=x)](https://twitter.com/cybersoulja)
+[![YouTube](https://img.shields.io/badge/YouTube-Oneseco_Media-FF0000?style=flat&logo=youtube)](https://youtube.com/@onesecomedia)
+[![Web](https://img.shields.io/badge/Web-oneseco.com-00B4D8?style=flat)](https://oneseco.com)
 
 
 
